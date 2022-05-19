@@ -1,0 +1,23 @@
+<script setup lang="ts">
+let test = "hello"
+console.log(test);
+
+</script>
+
+<template>
+    <div class="flex flex-row justify0center py-10">
+        <div id="terminal" class="w-auto mx-auto min-h-6xl h-auto min-w-full p-7 bg-teal">
+
+            <h1>Say Hello</h1>
+            <p class="text-ter-green bg-teal">GREEN text</p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <p></p>
+            <li>create border for termianl use yakuake and solorized colors
+            </li>
+        </div>
+    </div>
+</template>
