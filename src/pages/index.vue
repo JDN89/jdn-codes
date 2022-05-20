@@ -18,6 +18,8 @@ console.log(test);
             <p></p>
             <li class="text-gru-red">create border for termianl use yakuake and solorized colors
             </li>
+            <who-is></who-is>
+            <who-am-i> </who-am-i>
         </div>
     </div>
 </template>

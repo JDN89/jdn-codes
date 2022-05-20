@@ -5,8 +5,12 @@ import '@vue/runtime-core'
 
 declare module '@vue/runtime-core' {
   export interface GlobalComponents {
+    About: typeof import('./src/components/About.vue')['default']
+    CliCommandLine: typeof import('./src/components/CliCommandLine.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
+    WhoAmI: typeof import('./src/components/WhoAmI.vue')['default']
+    WhoIs: typeof import('./src/components/WhoIs.vue')['default']
   }
 }
 
