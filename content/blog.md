@@ -5,5 +5,18 @@ navTitle: 'Blog'
 # Blog posts go here
 
 ## Recursion and Dynamic programming -- leetcode staircase analysed
+link to this post
+how?
+how can I link to another page here? 
+save title in a const and regex it?
+there must be a way simpler solution where I can just point to the content/posts/... path
+-> tomorrow is another day : goodnight (1 am)
+
+```ts
+const { data: navigation } = await useAsyncData('navigation', () => {
+  return fetchContentNavigation(queryContent('/posts/').where({title: { $regex: 'saved title' }}))
+})
+
+```
 
 ## Null - the billion dollar mistake
