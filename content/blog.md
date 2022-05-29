@@ -4,7 +4,10 @@ navTitle: 'Blog'
 
 # Blog posts go here
 
-## Recursion and Dynamic programming -- leetcode staircase analysed
+## [Recursion and Dynamic programming -- leetcode staircase analysed](/_posts/recursion)
+
+
+
 link to this post
 how?
 how can I link to another page here? 
