@@ -23,3 +23,4 @@ draw out layout in excalidraw
 
 ## The journey
 learning react and next js
+explanation [advantage](https://www.youtube.com/watch?v=_otTkX0RApI) Next JS
