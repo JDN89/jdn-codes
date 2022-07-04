@@ -32,5 +32,10 @@ When we reread we get familiar with the text, giving us a false sense of underst
 
 This is how I used to learn everything and this is how 80% of the students learn.
 
+## Reflection
+Reflect on what happened and what you learn. If something went wrong or not as expected, write it out. Figure out how you can improve upon it and adapt it for the future.
+I myself keep a work journal in Notion, where I keep track of the major things I learned and encountered during the week. This way, I can keep track of my progress, analyze it and see what is going well or wrong.
 
+This might be one of the most important points for improving in your job, actually taking the time to reflect upon what you're doing or planning to do. To many people go through their jobs without reflecting upon what it is they're doing.
 
+Reflecting also means retrieving the information from memory, which in turn means that you'll retain the retrieved information even better
